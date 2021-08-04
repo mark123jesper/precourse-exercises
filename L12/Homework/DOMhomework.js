@@ -14,7 +14,7 @@ let toDoItems = [];
 */
 // code here
 const span = document.querySelector('#createdBy');
-span.innerHTML  = span.innerHTML + " " + 'John Ervin Ceriola';
+span.innerHTML  = span.innerHTML + " " + 'Mark Jesper Pillerva';
 
 /* 
   STEP 2: Create a class called 'ToDo'.  The constructor should have one string parameter called description, the description of the toDo.
